@@ -7,11 +7,12 @@ const Contact = () => {
       <h1 className={contactStyles.contact_heading}>Contact Us</h1>
       <hr className={contactStyles.contact_underline} />
       <p className={contactStyles.contact_text_sm}>Make a Booking</p>
-      <form action="https://formsubmit.co/sayanmunshi36@gmail.com" method="POST" className={contactStyles.contact_form}>
+      <form action="https://formsubmit.co/munshi@bmindia.net" method="POST" className={contactStyles.contact_form}>
         <input type="hidden" name="_subject" value="New Email!" />
         <input type="hidden" name="_next" value="https://mundhra-gardens.vercel.app/" />
         <input type="text" name="name" id="name" placeholder="Name*" required />
         <input type="email" name="email" id="email" placeholder="Email*" required />
+        <input type="tel" name="phone number" id="phone number" placeholder="Phone Number*" required />
         <input
           type="text"
           name="no_of_people"
@@ -38,16 +39,16 @@ const Contact = () => {
       </p>
       <p className={contactStyles.more_contact_info}>
         <span className={contactStyles.contact_label}>Email: </span>{" "}
-        email@gmail.com
+        munshi@bmindia.net
       </p>
       <p className={contactStyles.more_contact_info}>
         <span className={contactStyles.contact_label}>Phone No: </span> +91
-        9830367891
+        9830176466 (C.L. Sharma)
       </p>
       <p
         className={`${contactStyles.more_contact_info} ${contactStyles.last_line}`}
       >
-        Mundhra Garden, Madhyamgram, North 24 Pgs, West Bengal
+        Mundhra Garden, Madhyamgram, North 24 Pgs, Kol: 700128, West Bengal
       </p>
     </section>
   );

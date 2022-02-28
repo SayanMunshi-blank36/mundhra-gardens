@@ -10,12 +10,7 @@ const Welcome = () => {
           Welcome to Mundhra Garden
         </h1>
         <p className={welcomeStyles.welcome_txt_para}>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Non dolorum
-          enim accusantium error corporis ullam totam modi fugit animi! Quo fuga
-          tempora ex possimus natus praesentium expedita totam, repudiandae
-          molestias pariatur mollitia quisquam est nisi facere non odio et
-          reiciendis quod. Cupiditate, vitae voluptatibus porro ex quis pariatur
-          optio reiciendis.
+          Welcome to Mundhra Gardens. The best place to enjoy your leisure in a pollution free environment surrounded by greenery. Deepak Mitra Snake Garden and Buddha Temple are located in close proximity. An indeal place to relax your mind from the daily hustle and bustle.
         </p>
       </div>
     </section>

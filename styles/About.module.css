@@ -54,6 +54,7 @@
 .about_details_s4 {
   line-height: 2rem;
   height: fit-content;
+  text-align: justify;
 }
 
 @media (max-width: 1024px) {

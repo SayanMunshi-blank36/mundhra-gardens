@@ -10,44 +10,38 @@ const About = () => {
           <h3>Rooms</h3>
           <ul className={aboutStyles.s_details}>
             <li>
-              Lorem ipsum, dolor sit amet consectetur adipisicing elit.
-              Quibusdam officia alias perferendis et eius doloribus.
+              One dormitary and one furnished room with air conditioner, inverter and 24 hours running water.
             </li>
             <li>
-              Lorem ipsum, dolor sit amet consectetur adipisicing elit.
-              Quibusdam officia alias perferendis et eius doloribus.
+              One Common Sitting Room along with a roof top balcony.
             </li>
             <li>
-              Lorem ipsum, dolor sit amet consectetur adipisicing elit.
-              Quibusdam officia alias perferendis et eius doloribus.
+              Three outdoor washrooms and one indoor washroom.
             </li>
           </ul>
         </div>
         <div className={aboutStyles.about_details_s2}>
           <h3>Rates</h3>
           <ul className={aboutStyles.s_details}>
-            <li>Lorem ipsum dolor sit, amet consectetur adipisicing elit.</li>
-            <li>Lorem ipsum dolor sit, amet consectetur adipisicing elit.</li>
-            <li>Lorem ipsum dolor sit, amet consectetur adipisicing elit.</li>
-            <li>Lorem ipsum dolor sit, amet consectetur adipisicing elit.</li>
-            <li>Lorem ipsum dolor sit, amet consectetur adipisicing elit.</li>
+            Rs 30000 for family / corporate (maximum 150 people) including car parking.
           </ul>
         </div>
         <div className={aboutStyles.about_details_s3}>
           <h3>Aminities</h3>
           <p className={aboutStyles.s_details}>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Ab,
-            nesciunt velit. Delectus aliquid doloribus ab totam fuga asperiores,
-            commodi accusamus.
+            The campus (about 4 acres) is having Mango trees, Coconut trees and has a beautiful garden, pond for fishing, a beautiful swimming pool along with playground, badminton court and many other entertaining aminities. 
+            <br />
+            <strong>Check in time: </strong> 9 AM
+            <br />
+            <strong>Check out time: </strong> 6 PM
           </p>
         </div>
         <div className={aboutStyles.about_details_s4}>
           <h3>Food</h3>
           <p className={aboutStyles.s_details}>
-            Lorem, ipsum dolor sit amet consectetur adipisicing elit. Itaque
-            eius repellendus ea? Voluptas veritatis sequi voluptatibus animi
-            corrupti dignissimos, consectetur nesciunt quam, esse quos
-            molestiae.
+            We have in house kitchen for cooking veg and non-veg and guests have to hire local decorators at their own cost for sitting arrangements and cooking utensils as per their choice.
+            <br />
+            All kinds of beverages are allowed.
           </p>
         </div>
       </div>

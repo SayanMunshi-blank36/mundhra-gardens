@@ -18,16 +18,9 @@ const Location = () => {
       </div>
       <h3 className={locationStyles.location_direction}>Direction</h3>
       <p className={locationStyles.location_details}>
-        <span className={locationStyles.location_route}>By Train: </span>
-        Lorem ipsum dolor, sit amet consectetur adipisicing elit. Tempore
-        dignissimos excepturi tenetur? Doloremque reprehenderit sequi eligendi
-        animi! Iusto quidem nesciunt maiores at! Ullam, dicta nihil!
-      </p>
-      <p className={locationStyles.location_details}>
         <span className={locationStyles.location_route}>By Road: </span>
-        Lorem ipsum dolor, sit amet consectetur adipisicing elit. Tempore
-        dignissimos excepturi tenetur? Doloremque reprehenderit sequi eligendi
-        animi! Iusto quidem nesciunt maiores at! Ullam, dicta nihil!
+        The spot is located at about 6 KM from Madhyamgram Chowmatha.
+        From Chowmatha to Kanchantala about 5 KM then left turn and go 1 KM to reach Mundhra Gardens. It will take about 15 to 20 minutes to reach the destination.
       </p>
     </section>
   );
