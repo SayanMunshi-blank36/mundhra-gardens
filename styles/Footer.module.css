@@ -17,6 +17,11 @@
 .footer_lower_txt {
   font-weight: 200;
   font-size: 0.75rem;
+  margin-bottom: 1.2rem;
+}
+
+.footer_lowest_txt{
+  font-size: 0.75rem;
 }
 
 .upBtn {
