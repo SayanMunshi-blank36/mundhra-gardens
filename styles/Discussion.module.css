@@ -1,0 +1,32 @@
+.main_discussion {
+  background: rgba(0, 0, 0, 0.3) url("../public/discussion.jpeg");
+  background-blend-mode: darken;
+  background-position: center center;
+  background-size: cover;
+  width: 100%;
+  height: 92vh;
+  color: #fff;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: 2rem;
+}
+
+.discussion_modal {
+  margin-top: 2rem;
+  width: 20rem;
+  height: 12rem;
+  border-radius: 0.5rem;
+  background-color: rgba(0, 0, 0, 0.5);
+  font-size: 1rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+@media (max-width: 1024px) {
+  .main_discussion {
+    height: 50vh;
+  }
+}
