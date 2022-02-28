@@ -23,7 +23,7 @@ const About = () => {
         <div className={aboutStyles.about_details_s2}>
           <h3>Rates</h3>
           <ul className={aboutStyles.s_details}>
-            Rs 30000 for family / corporate (maximum 150 people) including car parking.
+            Rs 30000/- for family / corporate (maximum 150 people) including car parking.
           </ul>
         </div>
         <div className={aboutStyles.about_details_s3}>

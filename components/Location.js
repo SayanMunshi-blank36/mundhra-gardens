@@ -20,7 +20,7 @@ const Location = () => {
       <p className={locationStyles.location_details}>
         <span className={locationStyles.location_route}>By Road: </span>
         The spot is located at about 6 KM from Madhyamgram Chowmatha.
-        From Chowmatha to Kanchantala about 5 KM then left turn and go 1 KM to reach Mundhra Gardens. It will take about 15 to 20 minutes to reach the destination.
+        From Chowmatha to Kanchantala about 5 KM then left turn and go 1 KM to reach Mundhra Gardens. It will take about 15 to 20 minutes  to reach the destination from Chowmatha by car.
       </p>
     </section>
   );
