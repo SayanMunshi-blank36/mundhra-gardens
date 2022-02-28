@@ -9,7 +9,7 @@ const Contact = () => {
       <p className={contactStyles.contact_text_sm}>Make a Booking</p>
       <form action="https://formsubmit.co/sayanmunshi36@gmail.com" method="POST" className={contactStyles.contact_form}>
         <input type="hidden" name="_subject" value="New Email!" />
-        <input type="hidden" name="_next" value="http://localhost:3001" />
+        <input type="hidden" name="_next" value="https://mundhra-gardens.vercel.app/" />
         <input type="text" name="name" id="name" placeholder="Name*" required />
         <input type="email" name="email" id="email" placeholder="Email*" required />
         <input
